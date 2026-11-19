@@ -2,6 +2,8 @@
 
 A mobile-first interactive learning module ("לומדה") built with **Vue 2**. The learner moves through short content screens and practices with several kinds of interactive exercises, each checked instantly.
 
+**▶ Live demo: https://hilagabay28.github.io/interactive-lesson/**
+
 > **Note:** all the learning text in this repository is placeholder text (Hebrew *Lorem Ipsum*). The original content was removed for information-security reasons, and a notice about this is shown at the bottom of every screen. The structure, design and exercise logic are the original work.
 
 ## Exercise types
